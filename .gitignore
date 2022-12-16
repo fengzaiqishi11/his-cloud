@@ -1,0 +1,12 @@
+# Project exclude paths
+/his-cloud-api-app/target/
+/his-cloud-api-pc/target/
+/his-cloud-config/target/
+/his-cloud-eureka/target/
+/his-cloud-monitor/target/
+/his-cloud-service-bms/target/
+/his-cloud-service-dms/target/
+/his-cloud-service-pms/target/
+/his-cloud-service-sms/target/
+/his-cloud-zipkin/target/
+/his-cloud-zuul/target/
